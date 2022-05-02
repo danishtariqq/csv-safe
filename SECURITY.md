@@ -16,4 +16,4 @@ Your contribution would be acknowledged below:-
 
 | Contributor                  | Contribution                                 | CVE (If Any)   |
 | ---------------------------- | -------------------------------------------- | -------------- |
-| Danish Tariq & Gabriel Rios  | https://github.com/zvory/csv-safe/issues/7   |                |
+| Danish Tariq & Gabriel Rios  | https://github.com/zvory/csv-safe/issues/7   | [CVE-2022-28481](https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2022-28481) |
